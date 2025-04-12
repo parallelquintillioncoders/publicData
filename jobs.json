@@ -4,13 +4,38 @@
     "experience": "1+ Years",
     "role": "Identify new business opportunities, build relationships, and drive company growth through strategic outreach and communication.",
     "email": "hr@example.com",
-    "image": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9"
+    "image": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9",
+    "location": "Shahibaug, Ahmedabad, Gujarat or Remote",
+    "skills": [
+      "Strong communication skills",
+      "Negotiation skills",
+      "Ability to promote the brand effectively",
+      "Business intelligence",
+      "Research and analysis skills",
+      "Project management",
+      "Strategic business development planning",
+      "Financial acumen",
+      "Market forecasting",
+      "Leadership skills"
+    ]
   },
   {
     "title": "Android Developer (Jetpack Compose)",
     "experience": "2+ Years",
     "role": "Build modern, responsive Android applications using Kotlin and Jetpack Compose. Collaborate with design and backend teams to deliver seamless user experiences.",
     "email": "hr@example.com",
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437d9"
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437d9",
+    "location": "Shahibaug, Ahmedabad, Gujarat or Remote",
+    "skills": [
+      "Kotlin programming language",
+      "Jetpack Compose",
+      "Android app architecture",
+      "Modern Android Development practices",
+      "Jetpack libraries",
+      "Views-Compose interoperability",
+      "UI development on Android",
+      "Material Design principles",
+      "Declarative programming"
+    ]
   }
 ]
